@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "657569051940",
+    "firebase_url": "https://chatapplicationspring201-35b95.firebaseio.com",
+    "project_id": "chatapplicationspring201-35b95",
+    "storage_bucket": "chatapplicationspring201-35b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657569051940:android:4eda7016cabeafd1",
+        "android_client_info": {
+          "package_name": "com.sencanski.stanislav.chatapplicationspring2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657569051940-7956f5ffh2ddmakv5u9bjn1f02veurev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sencanski.stanislav.chatapplicationspring2017",
+            "certificate_hash": "6aa9d40b357a50a4eedf038df382d45b47c4e66e"
+          }
+        },
+        {
+          "client_id": "657569051940-nasvrbranpsmlern2lj0o91o42pve6jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgMsbQVbquxcBrMIK3Z4DUO5IJxtxaIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657569051940-nasvrbranpsmlern2lj0o91o42pve6jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
